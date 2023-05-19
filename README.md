@@ -1,2 +1,8 @@
 # elgamal
-FHNW mada elgamal midterm2 assignement
+This is our solution for the elgamal programming assignment.
+
+***
+##Team
+Saskia, Tugce Nur, Laurin
+
+*** 
